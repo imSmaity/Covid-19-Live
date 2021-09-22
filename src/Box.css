@@ -1,0 +1,31 @@
+.dataBox{
+    background-color: rgba(224, 245, 219, 0.274);
+    border: 2px solid rgb(99, 98, 98);
+    margin-top: 60px;
+    border-radius: 10px;
+    width: 290px;
+}
+h3,h4{
+    font-family: 'Merriweather', serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+.dataBox:hover{
+    background-color: rgb(246, 247, 239);
+}
+button{
+    background-color: white;
+    border: none;
+    margin-left: 90%;
+}
+h5{
+    color: gray;
+}
+.size{
+    font-size: large;
+}
+/* @media only screen and (max-width:1169px){
+    .dataBox{
+        width: 250px;
+    }
+} */
